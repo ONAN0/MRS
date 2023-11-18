@@ -1,2 +1,2 @@
 # MRS
-Semestrálna práca
+Semestrálna práca - ohrevné teleso
